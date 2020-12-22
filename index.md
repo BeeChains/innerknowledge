@@ -4,7 +4,18 @@
 
 by [![image](https://user-images.githubusercontent.com/37987346/101912317-96206680-3b8f-11eb-910e-d9d7e5015035.png)](https://innerinetcompany.webflow.io/contact)
 
-# At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Handshake Top Level Domains are nourished from the ROOT OF PERCEPTION to maximize potentials for an abundance of fruits. [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
+# At [Inner I Net Company](http://dlink.innerinetcompany.hns.to/), our Handshake Top Level Domains are nourished from the ROOT OF PERCEPTION, to spiritualize potentials for an abundance of fruits. [Own The Web 3](http://official.owntheweb3.hns.to/) we Consciously CHOOSE to Bend and [SHAPE Reality](http://innerinetcompany.shapereality.hns.to/) while customizing [The Root Zone](http://therootzone.hns.to/) File of the Internet with our [HNS-DOMAINS](http://home.hns-domains.hns.to/).
+
+<!-- Bible Verse. https://biblia.com/plugins/BibleVerse -->
+<biblia:bibleverse theme="header" resource="gnb" width="500" reference="1Co2.6-13"><blockquote style="width:500px;">Yet I do proclaim a message of wisdom to those who are spiritually mature. But it is not the wisdom that belongs to this world or to the powers that rule this world—powers that are losing their power. The wisdom I proclaim is God's hidden wisdom, which he had already chosen for our glory even before the world was made. None of the rulers of this world knew this wisdom. If they had known it, they would not have crucified the Lord of glory. However, as the scripture says: 
+      "What no one ever saw or heard, 
+      what no one ever thought could happen, 
+      is the very thing God prepared for those who love him." 
+But it was to us that God made known his secret by means of his Spirit. The Spirit searches everything, even the hidden depths of God's purposes. It is only the spirit within people that knows all about them; in the same way, only God's Spirit knows all about God. We have not received this world's spirit; instead, we have received the Spirit sent by God, so that we may know all that God has given us. 
+So then, we do not speak in words taught by human wisdom, but in words taught by the Spirit, as we explain spiritual truths to those who have the Spirit. &mdash; <a target="_blank" href = "https://biblia.com/bible/gnb/1Co2.6-13">1 Co 2:6-13</a></blockquote></biblia:bibleverse>
+<!-- If you’re including multiple Biblia widgets, you only need this script tag once -->
+<script src="//biblia.com/api/logos.biblia.js"></script>
+<script>logos.biblia.init();</script>
 
 <!-- Bible Verse. https://biblia.com/plugins/BibleVerse -->
 <biblia:bibleverse theme="header" resource="gnb" width="500" reference="Lk17.20-21"><blockquote style="width:500px;">Some Pharisees asked Jesus when the Kingdom of God would come. His answer was, "The Kingdom of God does not come in such a way as to be seen. No one will say, 'Look, here it is!' or, 'There it is!'; because the Kingdom of God is within you." &mdash; <a target="_blank" href = "https://biblia.com/bible/gnb/Lk17.20-21">Lk 17:20-21</a></blockquote></biblia:bibleverse>
